@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BernoulliDistributionFunction.cs" />
+    <Compile Include="BinomialDistributionFunction.cs" />
+    <Compile Include="DiscreteEvenDistributionFunction.cs" />
+    <Compile Include="Estimation.cs" />
+    <Compile Include="GeometricDistributionFunction.cs" />
+    <Compile Include="Handler.cs" />
+    <Compile Include="IDistributionFunction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
